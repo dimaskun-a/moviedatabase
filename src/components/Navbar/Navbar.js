@@ -1,5 +1,3 @@
-/* import Styled Component Navbar */
-// Import Link dari React Router
 import { Link } from "react-router-dom";
 import StyledNavbar from "./Navbar.styled";
 
